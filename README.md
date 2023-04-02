@@ -1,2 +1,32 @@
 # schoolapp-cf22
-A Coding Factory @ AUEB - Java Project - Chapter 28. Java EE / Maven / Authentication / Validation / Login Servlet - Filters
+
+## Athens Univercity of Economics and Business ([AUEB](https://aueb.gr/))
+A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) Java Project. Chapter 28. Java EE Project με Maven - Authentication / Validation / Login Servlet - Filters
+
+## Project info
+- School Application with Login providing Authentication , Validation
+- jBCrupt password encryption
+- jsp
+- Rest Controller
+- Jackson
+- JAX-RS
+- Jetty-maven-plugin web server dependency
+- Java Web Full Stack
+- Servlets
+- JSP
+- Maven project
+- MySql database
+
+## Installation
+To install and run the project, follow these steps:
+1. Clone the repository to your local machine
+2. add and adjust persistence.xml
+2. Run maven update to Install the necessary dependencies
+3. Run the project
+
+## Usage
+Run and connect to database. Login either as : 
+1. Admin : manage Teachers and Users. Search - Insert - Update - Delete functionality
+2. Teacher : search for students. Search - Insert - Update - Delete
+
+(admin password is pulled for matching from system environmental variables)
