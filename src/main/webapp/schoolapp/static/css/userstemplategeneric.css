@@ -1,0 +1,15 @@
+body {
+    background-color: #a57d84;
+}
+
+.centering {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+p {
+    font-size: 150%;
+    color: white;
+}
