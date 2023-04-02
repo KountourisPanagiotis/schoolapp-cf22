@@ -29,3 +29,11 @@ Run and connect to database. Login either as :
 2. Teacher : search for students. Search - Insert - Update - Delete
 
 (admin password is pulled for matching from system environmental variables)
+
+## Git extension renames:
+1. '.gitignore', LF replaced by CRLF
+2. '.mvn/wrapper/maven-wrapper.properties', LF replaced by CRLF
+3. 'mvnw', LF replaced by CRLF
+4. 'mvnw.cmd', LF replaced by CRLF
+5. 'pom.xml', LF replaced by CRLF
+6. 'src/main/webapp/WEB-INF/web.xml', LF replaced by CRLF
