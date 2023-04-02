@@ -6,14 +6,13 @@ A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) Ja
 ## Project info
 - School Application with Login providing Authentication , Validation
 - jBCrupt password encryption
-- jsp
+- JSP
 - Rest Controller
 - Jackson
 - JAX-RS
-- Jetty-maven-plugin web server dependency
+- Jetty-maven-plugin web server plugin
 - Java Web Full Stack
 - Servlets
-- JSP
 - Maven project
 - MySql database
 
