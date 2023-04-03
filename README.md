@@ -1,6 +1,6 @@
 # schoolapp-cf22
 
-## Athens Univercity of Economics and Business ([AUEB](https://aueb.gr/))
+## Athens University of Economics and Business ([AUEB](https://aueb.gr/))
 A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) Java Project. Chapter 28. Java EE Project με Maven - Authentication / Validation / Login Servlet - Filters
 
 ## Project info
